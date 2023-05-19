@@ -43,5 +43,7 @@ Note: Make sure your system has audio capabilities and the necessary audio drive
 
 ## License
 * This project is licensed under the MIT License.
-* Please note that you may need to update the `<repository_url>` with the actual URL of your Git repository.
+```bash
+`https://github.com/dark-king-001/Hand_gesture`
+* Please note that you may need to update the with the actual URL of your Git repository.
 
