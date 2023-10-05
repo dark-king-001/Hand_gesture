@@ -67,8 +67,8 @@ python main.py
 ## Project Images
 
 - **Running Game**
-  ![Running Game](https://github.com/dark-king-001/Hand_gesture/blob/main/Snapshots/Directory%20Structure.png)
+  ![Running Game](https://github.com/dark-king-001/Hand_gesture/blob/main/Snapshots/Project%20Running.png)
 
 - **Directory Snapshot**
-  ![Directory Snapshot](https://github.com/dark-king-001/Hand_gesture/blob/main/Snapshots/Directory%20Snapshot.png)
+  ![Directory Snapshot](https://github.com/dark-king-001/Hand_gesture/blob/main/Snapshots/Directory%20Structure.png)
   
