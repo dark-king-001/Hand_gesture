@@ -31,8 +31,7 @@ To learn concepts of OOPS in a Fun and Interesting ways.
 ## Build With
 [![Python 3.10 - Programming Language](https://img.shields.io/badge/Python%203.10%20-Programming%20Language%20-green?style=flat&logo=Python)](https://www.python.org/)
 [![Tensorflow - Python Module For Machine Learning](https://img.shields.io/badge/Tensorflow%20-Python%20Module%20For%20Machine%20Learning%20-green?style=flat&logo=TF)](https://www.tensorflow.org/)
-
-[Keras]
+[![Keras - Backend API for Machine Learning](https://img.shields.io/badge/Keras%20-Backend%20API%20for%20Machine%20Learning%20-green?style=flat&logo=Keras)](https://keras.io/)
 
 ## Getting Started
 
