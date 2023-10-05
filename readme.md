@@ -58,7 +58,7 @@ python main.py
 
 [![OpenCV - Hardware and AI module](https://img.shields.io/badge/OpenCV%20-Hardware%20and%20AI%20module%20-green?style=flat&logo=OpenCV)](https://opencv.org/)
 [![NumPy - A Scientific Calculation module](https://img.shields.io/badge/NumPy%20-A%20Scientific%20Calculation%20module%20-green?style=flat&logo=NumPy)](https://numpy.org/)
-[![Mediapipe - Cross-platform API deployment solution](https://img.shields.io/badge/Mediapipe%20-Cross-platform%20API%20deployment%20solution%20-green?style=flat&logo=Mediapipe)](https://pypi.org/project/mediapipe/)
+[![Mediapipe - Cross-platform API deployment solution](https://img.shields.io/badge/Mediapipe-Cross%20platform%20API%20deployment%20solution%20-green?style=flat&logo=Mediapipe)](https://pypi.org/project/mediapipe/)
 
 ## License
 * This project is licensed under the MIT License.
