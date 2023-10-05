@@ -1,4 +1,4 @@
-# Snake Game
+# Hand Gesture Recognition
 <p align="center">
   <h4 align="center">Be Smart with a hand gesture system control</h4>
 </p>
