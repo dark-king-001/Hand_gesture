@@ -29,10 +29,9 @@ This script allows you to control the system volume using hand gestures recogniz
 To learn concepts of OOPS in a Fun and Interesting ways.
 
 ## Build With
-- [![Python 3.6 - Programming Language](https://img.shields.io/badge/Python%203.6%20-Programming%20language%20-green?style=flat&logo=Python)](https://www.python.org/)
-
-- [TensorFlow]
-- [Keras]
+[![Python 3.10 - Programming Language](https://img.shields.io/badge/Python%203.10%20-Programming%20Language%20-green?style=flat&logo=Python)](https://www.python.org/)
+[TensorFlow]
+[Keras]
 
 ## Getting Started
 
