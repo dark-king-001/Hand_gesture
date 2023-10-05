@@ -1,48 +1,77 @@
-# Hand Gesture Recognition for System Volume Control
+# Snake Game
+<p align="center">
+  <img src="https://github.com/dark-king-001/Snake_Game/blob/main/Snapshots/Snake%20Game.png" alt="Snake Game" />
+</p>
+<p align="center">
+  <h4 align="center">Be Smart with a hand gesture system control</h4>
+</p>
+
+
+## About The Project
+
+### Overview
 
 This script allows you to control the system volume using hand gestures recognized by a computer vision model. It uses the MediaPipe library for hand tracking and a pre-trained model for gesture recognition.
 
-## Requirements
+### Features
 
-- Python 3.6 or above
-- OpenCV
-- NumPy
-- MediaPipe
-- TensorFlow
-- Keras
 
-## Installation
+- **Increase Volume**: Thumbs Up: Increases the system volume.
+- **Decrease Volume**: Thumbs Down: Decreases the system volume.
 
-1. Clone the repository:
+### Dependencies
 
-   ```bash
-   git clone https://github.com/dark-king-001/Hand_gesture.git
+- **Hardware Access**: The script will start capturing the video from the webcam and display the output frame.
+- **System Requirements**: Make sure your system has audio capabilities and the necessary audio drivers are installed for volume control to work properly.
+
+### Purpose
+
+To learn concepts of OOPS in a Fun and Interesting ways.
+
+## Build With
+- [Python3.6](https://img.shields.io/badge/Python%203.6%20-Python%20Programming%20Language%20-green?style=flat&logo=SG)
+- [TensorFlow]
+- [Keras]
+
+## Getting Started
+
+### Installation
+
+1. Clone the repo: 
+```sh
+git clone https://github.com/dark-king-001/Hand_gesture.git
+```
 2. Install the required packages:
-    pip install opencv-python numpy mediapipe tensorflow keras
+```sh
+pip install opencv-python numpy mediapipe tensorflow keras
+```
+3. Enter the Folder: 
+```sh
+cd Hand_gesture
+```
+4. run the game: 
+```sh
+python main.py
+```
 
-3. Download the pre-trained gesture recognition model and class names file and place them in the project directory.
+## Additional libraries
 
-4. Connect a webcam to your system.
+- [OpenCV]
+- [NumPy]
+- [MediaPipe]
 
-## Usage
-
-1. Run the script:
-    python hand_gesture_volume_control.py
-2. The script will start capturing the video from the webcam and display the output frame.
-
-3. Hold your hand in front of the webcam and perform the following gestures:
-
-    * Thumbs Up: Increases the system volume.
-    * Thumbs Down: Decreases the system volume.
-Note: Make sure your system has audio capabilities and the necessary audio drivers are installed for volume control to work properly.
-
+## License
+* This project is licensed under the MIT License.
 
 ## Troubleshooting
 * If the script fails to capture frames from the webcam, make sure the webcam is connected and functional.
 * If the hand landmarks are not detected accurately, try adjusting the min_detection_confidence parameter in the script to a lower value.
 
-## License
-* This project is licensed under the MIT License.
+## Project Images
 
-* Please note that you may need to update the https://github.com/dark-king-001/Hand_gesture with the actual URL of your Git repository.
+- **Running Game**
+  ![Running Game](https://github.com/dark-king-001/Hand_gesture/blob/main/Snapshots/Directory%20Structure.png)
 
+- **Directory Snapshot**
+  ![Directory Snapshot](https://github.com/dark-king-001/Hand_gesture/blob/main/Snapshots/Directory%20Snapshot.png)
+  
