@@ -1,8 +1,5 @@
 # Snake Game
 <p align="center">
-  <img src="https://github.com/dark-king-001/Snake_Game/blob/main/Snapshots/Snake%20Game.png" alt="Snake Game" />
-</p>
-<p align="center">
   <h4 align="center">Be Smart with a hand gesture system control</h4>
 </p>
 
@@ -26,7 +23,7 @@ This script allows you to control the system volume using hand gestures recogniz
 
 ### Purpose
 
-To learn concepts of OOPS in a Fun and Interesting ways.
+To learn Machine Learning and AI in python in a more fun way
 
 ## Build With
 [![Python 3.10 - Programming Language](https://img.shields.io/badge/Python%203.10%20-Programming%20Language%20-green?style=flat&logo=Python)](https://www.python.org/)
